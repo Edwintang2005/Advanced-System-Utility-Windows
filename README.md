@@ -1,6 +1,6 @@
 # Advanced-System-Utility-Windows
 
-This tool is designed for windows 10 and provides more in depth information about your system beyond the windows utilities without having an extensive install process. The utility provides quick insights on RAM, CPU, Storage and Battery and quick advice on how to optimise performance. Written purely in Python, this program relies on the Tkinter module and the Psutil module.
+This tool is designed for windows 10 and provides more in depth information about your system beyond the windows utilities without having an extensive install process. The utility provides quick insights on RAM, CPU, Storage and Battery and quick advice on how to optimise performance. Written purely in Python, this program relies on the Tkinter module and the Psutil module. Flowcharts and diagrams outlining the function of the application are also included.
 
 # Installation
 In order to install the program, please copy the .exe file with the .png file into a folder on your computer's local disk. This is because the storage stats provided by the program are of the disk which the program is located. For example, if it was located on a usb, it might only return 1GB free space rather than a 200 GB free space on your computer's hard drive. 
