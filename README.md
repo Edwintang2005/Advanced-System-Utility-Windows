@@ -21,6 +21,7 @@ This is how to install the necessary modules:
 3. Open cmd again and type pip -V to check if pip is functional
 4. If pip doesn't work, refer to steps on:
 	https://appuals.com/fix-pip-is-not-recognized-as-an-internal-or-external-command/#:~:text=What%20is%20causing%20the%20%E2%80%98pip%E2%80%99%20is%20not%20recognized,likely%20resolve%20the%20%E2%80%9C%20pip%20is%20not%20
+
 	Otherwise start the next step.
-5. To install psutil, open cmd and type pip install psutil
-6. The python script should now work when you execute it.
+6. To install psutil, open cmd and type pip install psutil
+7. The python script should now work when you execute it.
